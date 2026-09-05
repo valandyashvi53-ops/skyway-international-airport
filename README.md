@@ -132,8 +132,8 @@ This project is created as an **airport website UI project** to demonstrate a st
 
 Ahmedabad, Gujarat, India
 
-* Airport Help Desk: +91 98765 43210
-* Lost & Found: +91 98765 12345
+* Airport Help Desk: +91
+* Lost & Found: +91
 * Email: [help@skywayairport.com](mailto:help@skywayairport.com)
 
 ---
